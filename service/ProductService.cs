@@ -6,7 +6,6 @@ public class ProductService
     
     
     //wrfih3oihoihoih
-    
-    
+     //pass all data from repository layer to api endpoints
     
 }
